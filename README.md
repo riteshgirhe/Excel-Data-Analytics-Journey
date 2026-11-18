@@ -1,4 +1,4 @@
-# 📊 Excel Data Analytics Journey
+# 📊Excel Data Analytics Journey
 
 ## 👤 About Me
 - Learning Data Analytics from Zero
